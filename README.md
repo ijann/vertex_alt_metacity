@@ -1,4 +1,4 @@
-# vertex_alt_metacity-with-border-dark
+# vertex_alt_metacity with border dark
 
 vertex_alt_metacity
 
