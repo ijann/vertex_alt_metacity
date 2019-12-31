@@ -4,6 +4,8 @@ vertex_alt_metacity
 
 Edge theme modification vertex_alt_metacity with its dark edge and not the typical clear style
 
+/usr/share/themes/Vertex_alt_metacity/metacity-1/metacity-theme-3.xml
+
 I like this topic because it eliminates the title bar when maximizing the window, something that in the other themes I could not find, but its title bar loses color when using a dark theme, so these changes can enjoy a title bar dark with your dark theme.
 These colors are not compatible with clear themes, only with dark themes, for this you have to search for the ideal color using a color palette and change them in the lines that you modify.
 
